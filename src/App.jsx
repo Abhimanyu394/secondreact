@@ -19,19 +19,19 @@ function zero(){
     <>
     <h1> Welcome!!</h1>
     <One title='Message 1'>
-      Kaise ho mitr
+      laadle kaisa hai
     </One>
     <One title='Message 2'>
-      kabhi yaad bhi krliya karo
+      badmaasi nhi
     </One>
     <One title='Message 3'>
-        disturb toh nhi kiya na  
+        kahin waham paal rha ho
     </One>
     <One title='Message 4'>
-      sorry agar disturb kar diya ho 🙏🏻
+      min me thik kar dunga
     </One>
     <One title='Message 5'>
-      Bye Good Night
+      aayi baat samajh
     </One>
     </>
   )
